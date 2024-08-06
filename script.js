@@ -1,5 +1,5 @@
 function sayHello(name = "World") {
-  return `Hello ${name}!`;
+  return `Hello ${name}.`;
 }
 //Przykładowy output:
 console.log("1. " + sayHello("Tomek"));
